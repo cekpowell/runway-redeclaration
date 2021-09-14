@@ -41,8 +41,7 @@
       - `Documentation.pdf` : The **documentation** for the increment.
     - The `Increment 3` directory (final product) also contains:
       - `User Guide.pdf` : A **user guide** which explains how to use the final system and all of it's features
-      -  `Demonstration.mp4` : A **demonstration video** which shows a walkthrough of the final system and it's features.
-      -  `Project Evaluation.pdf` : A **project evaluation report** which details the teams evaluation of the developemnt process.
+      - `Project Evaluation.pdf` : A **project evaluation report** which details the teams evaluation of the developemnt process.
 
 <p align="center"><img src="images/introduction.png" alt="introduction" width="600"/></p> 
 
@@ -73,7 +72,7 @@
 
 ## Usage
 
-- Please refer to the demonstration video `Increment 3/Demonstration.mp4` or the user guide `Increment 3/User Guide.pdf` for a detailed description on how to use the system and all of its features.
+- Please refer to the demonstration video posted on YoutTube [here](https://www.youtube.com/watch?v=gBGcshrvSaw), or the user guide `Increment 3/User Guide.pdf` for a detailed description on how to use the system and all of its features.
 
 <p align="center"><img src="images/revision.png" alt="revision" width="600"/></p> 
 
