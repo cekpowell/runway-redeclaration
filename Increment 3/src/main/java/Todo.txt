@@ -1,0 +1,13 @@
+TODO:
+    - !!!!Double check runway calculations!!!!
+    - add (m) to obstacle input fields
+    - remove obstacle ID??
+    - Runway revision for takeoff away from obstacle when it is past TORA but within ASDA and TODA. (lannding towards obstacle and take off towards obstacle)
+    - Round revision parameters so that really long values are not displayed.
+    - Case where runway parameters go negative - should display them as 0 and not as negatives.
+
+for example, with runway parameters, focus not on how they are presented, but that they are shown to you, as we have
+focussed only on the main program logic, and not UI display.
+
+we wanted to focus on main program logic, but still give the user a way to use the system for runway revisions.
+

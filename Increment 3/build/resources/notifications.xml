@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="14.0.2" class="java.beans.XMLDecoder">
+ <object class="IO.Wrapper">
+  <void property="wrappedClass">
+   <class>Model.Notification</class>
+  </void>
+  <void property="wrappedObj">
+   <array class="Model.Notification" length="3">
+    <void index="0">
+     <object class="Model.Notification">
+      <void property="date">
+       <object class="Model.CustomLocalDate">
+        <void property="day">
+         <int>3</int>
+        </void>
+        <void property="month">
+         <int>9</int>
+        </void>
+        <void property="year">
+         <int>2021</int>
+        </void>
+       </object>
+      </void>
+      <void property="message">
+       <string>Airport London Heathrow successfully added</string>
+      </void>
+      <void property="time">
+       <object class="Model.CustomLocalTime">
+        <void property="hour">
+         <int>17</int>
+        </void>
+        <void property="minute">
+         <int>58</int>
+        </void>
+        <void property="second">
+         <int>42</int>
+        </void>
+       </object>
+      </void>
+      <void property="type">
+       <object class="java.lang.Enum" method="valueOf">
+        <class>Model.Notification$Type</class>
+        <string>ADD</string>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void index="1">
+     <object class="Model.Notification">
+      <void property="date">
+       <object class="Model.CustomLocalDate">
+        <void property="day">
+         <int>3</int>
+        </void>
+        <void property="month">
+         <int>9</int>
+        </void>
+        <void property="year">
+         <int>2021</int>
+        </void>
+       </object>
+      </void>
+      <void property="message">
+       <string>Runway revision successfully performed on runway 09R of airport London Heathrow</string>
+      </void>
+      <void property="time">
+       <object class="Model.CustomLocalTime">
+        <void property="hour">
+         <int>17</int>
+        </void>
+        <void property="minute">
+         <int>59</int>
+        </void>
+       </object>
+      </void>
+      <void property="type">
+       <object class="java.lang.Enum" id="Notification$Type0" method="valueOf">
+        <class>Model.Notification$Type</class>
+        <string>REVISION</string>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void index="2">
+     <object class="Model.Notification">
+      <void property="date">
+       <object class="Model.CustomLocalDate">
+        <void property="day">
+         <int>3</int>
+        </void>
+        <void property="month">
+         <int>9</int>
+        </void>
+        <void property="year">
+         <int>2021</int>
+        </void>
+       </object>
+      </void>
+      <void property="message">
+       <string>Runway revision successfully performed on runway 09R of airport London Heathrow</string>
+      </void>
+      <void property="time">
+       <object class="Model.CustomLocalTime">
+        <void property="hour">
+         <int>17</int>
+        </void>
+        <void property="minute">
+         <int>59</int>
+        </void>
+        <void property="second">
+         <int>7</int>
+        </void>
+       </object>
+      </void>
+      <void property="type">
+       <object idref="Notification$Type0"/>
+      </void>
+     </object>
+    </void>
+   </array>
+  </void>
+ </object>
+</java>

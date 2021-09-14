@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="13" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="Model.Obstacle">
+    <void property="height">
+     <double>17.0</double>
+    </void>
+    <void property="id">
+     <int>1</int>
+    </void>
+    <void property="length">
+     <double>63.0</double>
+    </void>
+    <void property="name">
+     <string>Boeing 787 9</string>
+    </void>
+    <void property="width">
+     <double>60.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Model.Obstacle">
+    <void property="height">
+     <double>18.6</double>
+    </void>
+    <void property="id">
+     <int>2</int>
+    </void>
+    <void property="length">
+     <double>63.7</double>
+    </void>
+    <void property="name">
+     <string>Boeing 777-200</string>
+    </void>
+    <void property="width">
+     <double>60.9</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Model.Obstacle">
+    <void property="height">
+     <double>18.5</double>
+    </void>
+    <void property="id">
+     <int>3</int>
+    </void>
+    <void property="length">
+     <double>73.9</double>
+    </void>
+    <void property="name">
+     <string>Boeing 777-300ER</string>
+    </void>
+    <void property="width">
+     <double>64.8</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Model.Obstacle">
+    <void property="height">
+     <double>13.6</double>
+    </void>
+    <void property="id">
+     <int>4</int>
+    </void>
+    <void property="length">
+     <double>47.3</double>
+    </void>
+    <void property="name">
+     <string>Boeing 757-200</string>
+    </void>
+    <void property="width">
+     <double>38.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Model.Obstacle">
+    <void property="height">
+     <double>19.6</double>
+    </void>
+    <void property="id">
+     <int>5</int>
+    </void>
+    <void property="length">
+     <double>70.6</double>
+    </void>
+    <void property="name">
+     <string>Boeing 747-200</string>
+    </void>
+    <void property="width">
+     <double>59.6</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Model.Obstacle">
+    <void property="height">
+     <double>12.5</double>
+    </void>
+    <void property="id">
+     <int>6</int>
+    </void>
+    <void property="length">
+     <double>33.6</double>
+    </void>
+    <void property="name">
+     <string>Boeing 737-700</string>
+    </void>
+    <void property="width">
+     <double>35.8</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Model.Obstacle">
+    <void property="height">
+     <double>12.5</double>
+    </void>
+    <void property="id">
+     <int>7</int>
+    </void>
+    <void property="length">
+     <double>39.5</double>
+    </void>
+    <void property="name">
+     <string>Boeing 737-800</string>
+    </void>
+    <void property="width">
+     <double>35.8</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Model.Obstacle">
+    <void property="height">
+     <double>12.5</double>
+    </void>
+    <void property="id">
+     <int>8</int>
+    </void>
+    <void property="length">
+     <double>42.1</double>
+    </void>
+    <void property="name">
+     <string>Boeing 737-900</string>
+    </void>
+    <void property="width">
+     <double>35.8</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Model.Obstacle">
+    <void property="height">
+     <double>12.5</double>
+    </void>
+    <void property="id">
+     <int>9</int>
+    </void>
+    <void property="length">
+     <double>44.51</double>
+    </void>
+    <void property="name">
+     <string>Airbus A321</string>
+    </void>
+    <void property="width">
+     <double>35.8</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Model.Obstacle">
+    <void property="height">
+     <double>11.76</double>
+    </void>
+    <void property="id">
+     <int>10</int>
+    </void>
+    <void property="length">
+     <double>37.57</double>
+    </void>
+    <void property="name">
+     <string>Airbus A320</string>
+    </void>
+    <void property="width">
+     <double>35.8</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Model.Obstacle">
+    <void property="height">
+     <double>12.11</double>
+    </void>
+    <void property="id">
+     <int>11</int>
+    </void>
+    <void property="length">
+     <double>33.84</double>
+    </void>
+    <void property="name">
+     <string>Airbus A319</string>
+    </void>
+    <void property="width">
+     <double>35.8</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Model.Obstacle">
+    <void property="height">
+     <double>12.5</double>
+    </void>
+    <void property="id">
+     <int>12</int>
+    </void>
+    <void property="length">
+     <double>33.6</double>
+    </void>
+    <void property="name">
+     <string>Boeing 737-700</string>
+    </void>
+    <void property="width">
+     <double>35.8</double>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

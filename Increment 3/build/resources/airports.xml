@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="14.0.2" class="java.beans.XMLDecoder">
+ <object class="IO.Wrapper">
+  <void property="wrappedClass">
+   <class>Model.Airport</class>
+  </void>
+  <void property="wrappedObj">
+   <array class="Model.Airport" length="1">
+    <void index="0">
+     <object class="Model.Airport" id="Airport0">
+      <void property="IATA">
+       <string>LHR</string>
+      </void>
+      <void property="name">
+       <string>London Heathrow</string>
+      </void>
+      <void property="runways">
+       <void method="add">
+        <object class="Model.PhysicalRunway" id="PhysicalRunway0">
+         <void property="logicalRunways">
+          <void method="add">
+           <object class="Model.LogicalRunway">
+            <void property="designation">
+             <string>09R</string>
+            </void>
+            <void property="heading">
+             <int>9</int>
+            </void>
+            <void property="parameters">
+             <object class="Model.LogicalRunwayParameters">
+              <void property="asda">
+               <double>4000.0</double>
+              </void>
+              <void property="displacedThreshold">
+               <double>500.0</double>
+              </void>
+              <void property="lda">
+               <double>3500.0</double>
+              </void>
+              <void property="minimumAngleOfAscentDescent">
+               <double>0.2</double>
+              </void>
+              <void property="toda">
+               <double>4000.0</double>
+              </void>
+              <void property="tora">
+               <double>4000.0</double>
+              </void>
+             </object>
+            </void>
+            <void property="position">
+             <char>R</char>
+            </void>
+           </object>
+          </void>
+         </void>
+         <void property="name">
+          <string>09R</string>
+         </void>
+        </object>
+       </void>
+      </void>
+     </object>
+    </void>
+   </array>
+  </void>
+ </object>
+</java>
