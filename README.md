@@ -1,4 +1,4 @@
-# Runway Re-Decleration Tool
+# Runway Re-Declaration Tool
 
 ## COMP2211: Software Engineering Group Project
 
